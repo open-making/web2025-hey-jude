@@ -1,0 +1,29 @@
+# WEB2025 Exercise 1 - Take a sad site and make it sadder
+
+## Overview
+Practice your CSS skills by creating the most visually offensive design possible.
+
+## Getting Started
+
+1. Clone or download this project
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to the localhost URL shown in the terminal
+
+## Task
+
+Edit the `style.css` file to make this website as ugly as possible. The HTML structure is already provided - your job is to add CSS that makes it look terrible.
+
+Do whatever! Clashing colors, weird margins, padding, background patterns, copy paste some code you found only, try out a random CSS property you only read about on MDN, create weird hover actions, mix font weights and families. Go ham!
+
+## Files
+
+- `index.html` - The HTML structure (don't modify this)
+- `style.css` - Your CSS playground (this is where you work)
+- `css-properties.md` - [Reference guide for CSS properties](css-properties.md)
