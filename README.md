@@ -6,15 +6,14 @@ Practice your CSS skills by creating the most visually offensive design possible
 ## Getting Started
 
 1. Clone or download this project
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open your browser and navigate to the localhost URL shown in the terminal
+2. Install the Live Server extension in VS Code:
+   - Open VS Code
+   - Go to the Extensions view (Ctrl+Shift+X / Cmd+Shift+X)
+   - Search for "Live Server" by Ritwick Dey
+   - Click "Install"
+3. Open the project folder in VS Code
+4. Right-click on `index.html` and select "Open with Live Server"
+5. Your default browser will open automatically with the project running
 
 ## Task
 
